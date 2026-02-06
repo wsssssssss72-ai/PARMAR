@@ -1,34 +1,119 @@
 
+
 import { AppData } from './types';
 
 export const data: AppData = {
   courses: [
     {
-      id: "course-web-dev",
-      name: "Modern Web Development",
+      id: "PARMAR GK 4.0",
+      name: "PARMAR SSC 4.0",
       description: "Master React, Tailwind, and modern architecture in 2024.",
-      thumbnail: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80",
+      thumbnail: "https://appx-content-v2.classx.co.in/paid_course3/2025-09-29-0.06895000379516425.jpg",
       subjects: [
         {
-          id: "subj-react-basics",
-          name: "React Fundamentals",
-          description: "Introduction to components, props, and state.",
+          id: "POLITY ",
+          name: "v1",
+          description: "PARMAR SSC .",
           icon: "⚛️",
           videos: [
             {
-              id: "v1",
-              title: "Getting Started with React",
-              duration: "10:24",
-              url: "https://web-production-50ad7.up.railway.app/93?hash=AgADjB",
-              thumbnail: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&w=400&q=80"
+              id: "v2",
+              title: " MAKING OF CONSTITUTION",
+              duration: "",
+              url: "",
+              thumbnail: "https://web-production-50ad7.up.railway.app/93?hash=AgADjB"
             },
             {
-              id: "v2",
-              title: "Understanding JSX",
-              duration: "15:45",
+              id: "v3",
+              title: "SALIENT FEATURES OF CONSTITUTION",
+              duration: "15:30",
               url: "https://web-production-50ad7.up.railway.app/94?hash=AgADkR",
-              thumbnail: "https://images.unsplash.com/photo-1587620962725-abab7fe55159?auto=format&fit=crop&w=400&q=80"
+              thumbnail: ""
             }
+             {
+              id: "v4",
+              title: "PREAMBLE",
+              duration: "",
+              url: "https://web-production-50ad7.up.railway.app/96?hash=AgADlx",
+              thumbnail: ""
+            }
+             {
+              id: "v5",
+              title: "PART 1 AND 2 OF CONSTITUTION.",
+              duration: "",
+              url: "https://web-production-50ad7.up.railway.app/97?hash=AgADnB",
+              thumbnail: ""
+            }
+             {
+              id: "v6",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: ""
+            }
+              {
+              id: "v2",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: ""
+            }
+             {
+              id: "v2",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: ""
+            }
+             {
+              id: "v2",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: ""
+            }  {
+              id: "v2",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: ""
+            }
+             {
+              id: "v2",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: ""
+            }
+             {
+              id: "v2",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: ""
+            }  {
+              id: "v2",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: ""
+            }
+             {
+              id: "v2",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: ""
+            }
+             {
+              id: "v2",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: ""
+            }
+
+
           ]
         },
         {
