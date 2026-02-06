@@ -1,0 +1,9 @@
+
+{
+  "name": "EduStream Premium",
+  "description": "A high-end, responsive education platform featuring structured courses, subject lists, and an integrated video player experience with smooth animations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
