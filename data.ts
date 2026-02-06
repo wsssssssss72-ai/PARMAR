@@ -4,115 +4,31 @@ import { AppData } from './types';
 export const data: AppData = {
   courses: [
     {
-      id: "PARMAR GK 4.0",
-      name: "PARMAR SSC 4.0",
-      description: "Master React, Tailwind, and modern architecture in 2024.",
+      id: "PARMAR GK BATCH 4.0",
+      name: "PARMAR GK BATCH 4.0",
+      description: "unlocked",
       thumbnail: "https://appx-content-v2.classx.co.in/paid_course3/2025-09-29-0.06895000379516425.jpg",
       subjects: [
         {
-          id: "POLITY ",
-          name: "v1",
-          description: "PARMAR SSC .",
+          id: "subj-react-basics",
+          name: "POLITY",
+          description: "Introduction to components, props, and state.",
           icon: "⚛️",
           videos: [
             {
-              id: "v2",
-              title: " MAKING OF CONSTITUTION",
-              duration: "",
-              url: "",
-              thumbnail: "https://web-production-50ad7.up.railway.app/93?hash=AgADjB"
+              id: "v1",
+              title: "MAKING OF CONSTITUTION",
+              duration: "1:45",
+              url: "https://web-production-50ad7.up.railway.app/93?hash=AgADjB",
+              thumbnail: "https://appx-content-v2.classx.co.in/paid_course3/2025-09-29-0.06895000379516425.jpg"
             },
             {
-              id: "v3",
-              title: "SALIENT FEATURES OF CONSTITUTION",
-              duration: "15:30",
+              id: "v2",
+              title: "  SALIENT FEATURES OF CONSTITUTION",
+              duration: "1:59",
               url: "https://web-production-50ad7.up.railway.app/94?hash=AgADkR",
-              thumbnail: ""
+              thumbnail: "https://appx-content-v2.classx.co.in/paid_course3/2025-09-29-0.06895000379516425.jpg"
             }
-             {
-              id: "v4",
-              title: "PREAMBLE",
-              duration: "",
-              url: "https://web-production-50ad7.up.railway.app/96?hash=AgADlx",
-              thumbnail: ""
-            }
-             {
-              id: "v5",
-              title: "PART 1 AND 2 OF CONSTITUTION.",
-              duration: "",
-              url: "https://web-production-50ad7.up.railway.app/97?hash=AgADnB",
-              thumbnail: ""
-            }
-             {
-              id: "v6",
-              title: "",
-              duration: "",
-              url: "",
-              thumbnail: ""
-            }
-              {
-              id: "v2",
-              title: "",
-              duration: "",
-              url: "",
-              thumbnail: ""
-            }
-             {
-              id: "v2",
-              title: "",
-              duration: "",
-              url: "",
-              thumbnail: ""
-            }
-             {
-              id: "v2",
-              title: "",
-              duration: "",
-              url: "",
-              thumbnail: ""
-            }  {
-              id: "v2",
-              title: "",
-              duration: "",
-              url: "",
-              thumbnail: ""
-            }
-             {
-              id: "v2",
-              title: "",
-              duration: "",
-              url: "",
-              thumbnail: ""
-            }
-             {
-              id: "v2",
-              title: "",
-              duration: "",
-              url: "",
-              thumbnail: ""
-            }  {
-              id: "v2",
-              title: "",
-              duration: "",
-              url: "",
-              thumbnail: ""
-            }
-             {
-              id: "v2",
-              title: "",
-              duration: "",
-              url: "",
-              thumbnail: ""
-            }
-             {
-              id: "v2",
-              title: "",
-              duration: "",
-              url: "",
-              thumbnail: ""
-            }
-
-
           ]
         },
         {
@@ -124,9 +40,9 @@ export const data: AppData = {
             {
               id: "v4",
               title: "The Utility-First Approach",
-              duration: "12:00",
-              url: "https://www.w3schools.com/html/movie.mp4",
-              thumbnail: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=400&q=80"
+              duration: "1:15",
+              url: "",
+              thumbnail: "https://appx-content-v2.classx.co.in/paid_course3/2025-09-29-0.06895000379516425.jpg"
             }
           ]
         }
