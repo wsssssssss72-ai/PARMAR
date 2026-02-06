@@ -18,14 +18,14 @@ export const data: AppData = {
             {
               id: "v1",
               title: "MAKING OF CONSTITUTION",
-              duration: "1:45",
+              duration: "",
               url: "https://web-production-50ad7.up.railway.app/93?hash=AgADjB",
               thumbnail: "https://appx-content-v2.classx.co.in/paid_course3/2025-09-29-0.06895000379516425.jpg"
             },
             {
               id: "v2",
               title: "  SALIENT FEATURES OF CONSTITUTION",
-              duration: "1:59",
+              duration: "",
               url: "https://web-production-50ad7.up.railway.app/94?hash=AgADkR",
               thumbnail: "https://appx-content-v2.classx.co.in/paid_course3/2025-09-29-0.06895000379516425.jpg"
             }
