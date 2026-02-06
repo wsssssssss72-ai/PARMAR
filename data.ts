@@ -1,5 +1,4 @@
 
-
 import { AppData } from './types';
 
 export const data: AppData = {
