@@ -14,8 +14,8 @@ const SplashScreen: React.FC = () => {
       </div>
       
       <div className="text-center">
-        <h1 className="text-white text-5xl font-black tracking-tighter mb-2">EduStream</h1>
-        <p className="text-indigo-400 text-sm font-black tracking-[0.4em] uppercase">Premium Academy</p>
+        <h1 className="text-white text-5xl font-black tracking-tighter mb-2">VIPSTUDY</h1>
+        <p className="text-indigo-400 text-sm font-black tracking-[0.4em] uppercase">PARMAR Academy</p>
       </div>
 
       <div className="absolute bottom-20 w-48 h-1 bg-white/10 rounded-full overflow-hidden">
