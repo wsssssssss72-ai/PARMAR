@@ -12,7 +12,7 @@ export const data: AppData = {
           id: "subj-polity",
           name: "POLITY",
           description: "Indian Constitution and Polity",
-          icon: "⚛️",
+          icon: "🎓",
           videos: [
             {
               id: "v1",
@@ -146,7 +146,7 @@ export const data: AppData = {
           id: "subj-ancient-history",
           name: "ANCIENT HISTORY",
           description: "Ancient Indian History",
-          icon: "",
+          icon: "🎓",
           videos: [
             {
               id: "v1",
@@ -238,7 +238,7 @@ export const data: AppData = {
           id: "subj-geography",
           name: "GEOGRAPHY",
           description: "World and Indian Geography",
-          icon: "",
+          icon: "🎓",
           videos: [
             {
               id: "v1",
@@ -442,7 +442,7 @@ export const data: AppData = {
           id: "subj-medieval-history",
           name: "MEDIEVAL HISTORY",
           description: "Medieval Indian History",
-          icon: "",
+          icon: "🎓",
           videos: [
             {
               id: "v1",
@@ -555,7 +555,7 @@ export const data: AppData = {
           id: "subj-modern-history",
           name: "MODERN HISTORY",
           description: "Modern Indian History",
-          icon: "",
+          icon: "🎓",
           videos: [
             {
               id: "v1",
@@ -598,7 +598,7 @@ export const data: AppData = {
           id: "subj-revision-classes",
           name: "REVISION CLASSES",
           description: "Revision sessions for exams",
-          icon: "",
+          icon: "🎓",
           videos: [
             {
               id: "v1",
@@ -613,7 +613,7 @@ export const data: AppData = {
           id: "subj-economics",
           name: "ECONOMICS",
           description: "Indian Economy",
-          icon: "",
+          icon: "🎓",
           videos: [
             {
               id: "v1",
