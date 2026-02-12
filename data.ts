@@ -139,7 +139,7 @@ export const data: AppData = {
           id: "ancient-history",
           name: "ANCIENT HISTORY",
           description: "Ancient Indian History",
-          icon: "",
+          icon: "https://image2url.com/r2/default/images/1770520667852-c2f5067c-1982-4007-a675-030030e77181.png",
           videos: [
             {
               id: "ancient-01",
@@ -224,7 +224,7 @@ export const data: AppData = {
           id: "geography",
           name: "GEOGRAPHY",
           description: "World and Indian Geography",
-          icon: "",
+          icon: "https://image2url.com/r2/default/images/1770522075771-0daa0656-04b0-46d4-be38-9323ee8bd83a.png",
           videos: [
             {
               id: "geo-01",
@@ -428,7 +428,7 @@ export const data: AppData = {
           id: "medieval-history",
           name: "MEDIEVAL HISTORY",
           description: "Medieval Indian History",
-          icon: "",
+          icon: "https://appx-content-v2.classx.co.in/paid_course3/2025-09-29-0.06895000379516425.jpg",
           videos: [
             {
               id: "medieval-01",
@@ -499,7 +499,7 @@ export const data: AppData = {
           id: "modern-history",
           name: "MODERN HISTORY",
           description: "Modern Indian History",
-          icon: "",
+          icon: "https://appx-content-v2.classx.co.in/paid_course3/2025-09-29-0.06895000379516425.jpg",
           videos: [
             {
               id: "modern-01",
@@ -549,7 +549,7 @@ export const data: AppData = {
           id: "revision-classes",
           name: "REVISION CLASSES",
           description: "Revision sessions for exams",
-          icon: "",
+          icon: "https://appx-content-v2.classx.co.in/paid_course3/2025-09-29-0.06895000379516425.jpg",
           videos: [
             {
               id: "revision-01",
@@ -599,37 +599,561 @@ export const data: AppData = {
               id: "cds-sci-04",
               title: "PHYSICS - MOTION & ITS LAWS PART 1",
               duration: "51:00",
-              url: "", // URL missing - needs to be added
+              url: "https://web-production-50ad7.up.railway.app/300?hash=AgADER",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-05",
+              title: "PHYSICS - MOTION & ITS LAWS PART 2",
+              duration: "49:00",
+              url: "https://web-production-50ad7.up.railway.app/302?hash=AgADEx",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-06",
+              title: "PHYSICS - WORK, POWER AND ENERGY",
+              duration: "45:00",
+              url: "https://web-production-50ad7.up.railway.app/306?hash=AgADFh",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-07",
+              title: "PHYSICS - GRAVITATION",
+              duration: "46:00",
+              url: "https://web-production-50ad7.up.railway.app/304?hash=AgADGR",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-08",
+              title: "PHYSICS - ELECTRICITY",
+              duration: "50:00",
+              url: "https://web-production-50ad7.up.railway.app/312?hash=AgADHB",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-09",
+              title: "PHYSICS - MAGNETISM - PART 1",
+              duration: "44:00",
+              url: "https://web-production-50ad7.up.railway.app/314?hash=AgADHx",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-10",
+              title: "PHYSICS - MAGNETISM - PART 2",
+              duration: "43:00",
+              url: "https://web-production-50ad7.up.railway.app/308?hash=AgADPR",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-11",
+              title: "PHYSICS - HEAT",
+              duration: "42:00",
+              url: "https://web-production-50ad7.up.railway.app/310?hash=AgADQx",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-12",
+              title: "PHYSICS - HEAT AND THERMODYNAMICS",
+              duration: "47:00",
+              url: "https://web-production-50ad7.up.railway.app/318?hash=AgADVB",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-13",
+              title: "PHYSICS - SOUND",
+              duration: "41:00",
+              url: "https://web-production-50ad7.up.railway.app/316?hash=AgADTB",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-14",
+              title: "PHYSICS - FLUID MECHANICS",
+              duration: "48:00",
+              url: "https://web-production-50ad7.up.railway.app/318?hash=AgADVB",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-15",
+              title: "PHYSICS - NUMERICALS - PART 1",
+              duration: "40:00",
+              url: "https://web-production-50ad7.up.railway.app/316?hash=AgADTB",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-16",
+              title: "PHYSICS - NUMERICALS - PART 2",
+              duration: "41:00",
+              url: "https://web-production-50ad7.up.railway.app/330?hash=AgADWh",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-17",
+              title: "BIOLOGY - CYTOLOGY",
+              duration: "52:00",
+              url: "https://web-production-50ad7.up.railway.app/328?hash=AgADXR",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-18",
+              title: "BIOLOGY - HISTOLOGY - BLOOD",
+              duration: "46:00",
+              url: "https://web-production-50ad7.up.railway.app/326?hash=AgADYB",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-19",
+              title: "BIOLOGY - DNA",
+              duration: "45:00",
+              url: "https://web-production-50ad7.up.railway.app/324?hash=AgADaR",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-20",
+              title: "BIOLOGY - ANIMAL REPRODUCTION",
+              duration: "49:00",
+              url: "https://web-production-50ad7.up.railway.app/332?hash=AgADbR",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-21",
+              title: "BIOLOGY - PLANT REPRODUCTION",
+              duration: "47:00",
+              url: "https://web-production-50ad7.up.railway.app/338?hash=AgADcR",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-22",
+              title: "BIOLOGY - PLANT TISSUE",
+              duration: "43:00",
+              url: "https://web-production-50ad7.up.railway.app/334?hash=AgADdR",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-23",
+              title: "BIOLOGY - RESPIRATION",
+              duration: "44:00",
+              url: "https://web-production-50ad7.up.railway.app/336?hash=AgADeB",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-24",
+              title: "BIOLOGY - PLANT NUTRITION",
+              duration: "42:00",
+              url: "https://web-production-50ad7.up.railway.app/340?hash=AgADlB",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-25",
+              title: "BIOLOGY - SKELETAL SYSTEM",
+              duration: "48:00",
+              url: "https://web-production-50ad7.up.railway.app/344?hash=AgADoh",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-26",
+              title: "BIOLOGY - NERVOUS SYSTEM",
+              duration: "47:00",
+              url: "https://web-production-50ad7.up.railway.app/346?hash=AgADrh",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-27",
+              title: "BIOLOGY - ENDOCRINE SYSTEM",
+              duration: "46:00",
+              url: "https://web-production-50ad7.up.railway.app/342?hash=AgADtB",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-28",
+              title: "BIOLOGY - EXCRETORY SYSTEM",
+              duration: "45:00",
+              url: "https://web-production-50ad7.up.railway.app/352?hash=AgADux",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-29",
+              title: "BIOLOGY - CIRCULATORY SYSTEM",
+              duration: "49:00",
+              url: "https://web-production-50ad7.up.railway.app/350?hash=AgAD-R",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-30",
+              title: "BIOLOGY - DIGESTIVE SYSTEM",
+              duration: "48:00",
+              url: "https://web-production-50ad7.up.railway.app/348?hash=AgAD5x",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-31",
+              title: "BIOLOGY - ANIMAL KINGDOM",
+              duration: "51:00",
+              url: "https://web-production-50ad7.up.railway.app/354?hash=AgAD-B",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-32",
+              title: "BIOLOGY - PLANT KINGDOM",
+              duration: "50:00",
+              url: "https://web-production-50ad7.up.railway.app/356?hash=AgAD_B",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-33",
+              title: "BIOLOGY - GENETICS",
+              duration: "52:00",
+              url: "https://web-production-50ad7.up.railway.app/358?hash=AgAD_x",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-sci-34",
+              title: "BIOLOGY - VITAMINS AND DISEASES",
+              duration: "44:00",
+              url: "https://web-production-50ad7.up.railway.app/359?hash=AgADAh",
               thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
             }
           ]
         },
         {
-          id: "cds-geography",
-          name: "GEOGRAPHY",
-          description: "Indian Geography - Advanced",
+          id: "cds-gk",
+          name: "GK",
+          description: "General Knowledge",
           icon: "🌍",
           videos: [
             {
-              id: "cds-geo-01",
-              title: "CLIMATOLOGY",
+              id: "cds-gk-01",
+              title: "ECONOMICS - MONEY",
               duration: "45:00",
-              url: "https://web-production-50ad7.up.railway.app/303?hash=AgADph",
+              url: "https://web-production-50ad7.up.railway.app/362?hash=AgADBR",
               thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
-            }
-          ]
-        },
-        {
-          id: "cds-economics",
-          name: "ECONOMICS",
-          description: "Indian Economy - Advanced",
-          icon: "💰",
-          videos: [
+            },
             {
-              id: "cds-econ-01",
-              title: "BUDGET AND FISCAL POLICY",
+              id: "cds-gk-02",
+              title: "ECONOMICS - MONETARY POLICY",
+              duration: "47:00",
+              url: "https://web-production-50ad7.up.railway.app/366?hash=AgADCh",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-03",
+              title: "ECONOMICS - MONEY SUPPLY",
               duration: "44:00",
-              url: "", // URL missing - needs to be added
+              url: "https://web-production-50ad7.up.railway.app/364?hash=AgADDR",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-04",
+              title: "ECONOMICS - BANKING SYSTEM",
+              duration: "48:00",
+              url: "https://web-production-50ad7.up.railway.app/370?hash=AgADEB",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-05",
+              title: "ECONOMICS - BUDGET AND TAXATION",
+              duration: "46:00",
+              url: "https://web-production-50ad7.up.railway.app/368?hash=AgADEx",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-06",
+              title: "ECONOMICS - INFLATION AND UNEMPLOYMENT",
+              duration: "49:00",
+              url: "https://web-production-50ad7.up.railway.app/372?hash=AgADFh",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-07",
+              title: "ECONOMICS - NATIONAL INCOME",
+              duration: "50:00",
+              url: "https://web-production-50ad7.up.railway.app/378?hash=AgADHh",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-08",
+              title: "ECONOMICS - NATIONAL INCOME - PART 2",
+              duration: "48:00",
+              url: "https://web-production-50ad7.up.railway.app/373?hash=AgADGh",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-09",
+              title: "ECONOMICS - BALANCE OF PAYMENTS",
+              duration: "47:00",
+              url: "https://web-production-50ad7.up.railway.app/376?hash=AgADIR",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-10",
+              title: "ECONOMICS - POVERTY",
+              duration: "43:00",
+              url: "https://web-production-50ad7.up.railway.app/386?hash=AgADJR",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-11",
+              title: "ECONOMICS - DEMAND AND SUPPLY",
+              duration: "46:00",
+              url: "https://web-production-50ad7.up.railway.app/382?hash=AgADKh",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-12",
+              title: "ECONOMICS - FIVE YEAR PLANS",
+              duration: "45:00",
+              url: "https://web-production-50ad7.up.railway.app/380?hash=AgADLR",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-13",
+              title: "POLITY - MAKING OF CONSTITUTION",
+              duration: "48:00",
+              url: "https://web-production-50ad7.up.railway.app/384?hash=AgADMh",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-14",
+              title: "POLITY - SALIENT FEATURES OF CONSTITUTION",
+              duration: "47:00",
+              url: "https://web-production-50ad7.up.railway.app/392?hash=AgADNx",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-15",
+              title: "POLITY - PREAMBLE",
+              duration: "42:00",
+              url: "https://web-production-50ad7.up.railway.app/394?hash=AgADPh",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-16",
+              title: "POLITY - PART 1 AND 2 OF CONSTITUTION",
+              duration: "44:00",
+              url: "https://web-production-50ad7.up.railway.app/388?hash=AgADQR",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-17",
+              title: "POLITY - FUNDAMENTAL RIGHTS - PART 1",
+              duration: "51:00",
+              url: "https://web-production-50ad7.up.railway.app/390?hash=AgADRx",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-18",
+              title: "POLITY - FUNDAMENTAL RIGHTS - PART 2",
+              duration: "50:00",
+              url: "https://web-production-50ad7.up.railway.app/398?hash=AgADTB",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-19",
+              title: "POLITY - FUNDAMENTAL RIGHTS - PART 3",
+              duration: "49:00",
+              url: "https://web-production-50ad7.up.railway.app/400?hash=AgADUh",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-20",
+              title: "POLITY - DPSP",
+              duration: "46:00",
+              url: "https://web-production-50ad7.up.railway.app/396?hash=AgADWR",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-21",
+              title: "POLITY - FUNDAMENTAL DUTIES AND BASIC STRUCTURE",
+              duration: "45:00",
+              url: "https://web-production-50ad7.up.railway.app/402?hash=AgADXB",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-22",
+              title: "POLITY - CONSTITUTIONAL AMENDMENTS",
+              duration: "48:00",
+              url: "https://web-production-50ad7.up.railway.app/405?hash=AgADXx",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-23",
+              title: "POLITY - PRESIDENT AND VICE-PRESIDENT",
+              duration: "52:00",
+              url: "https://web-production-50ad7.up.railway.app/406?hash=AgADZR",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-24",
+              title: "POLITY - PM AND COM",
+              duration: "47:00",
+              url: "https://web-production-50ad7.up.railway.app/410?hash=AgADah",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-25",
+              title: "POLITY - PARLIAMENT - PART 1",
+              duration: "49:00",
+              url: "https://web-production-50ad7.up.railway.app/404?hash=AgADbR",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-26",
+              title: "POLITY - PARLIAMENT - PART 2",
+              duration: "48:00",
+              url: "https://web-production-50ad7.up.railway.app/412?hash=AgADdR",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-27",
+              title: "POLITY - PARLIAMENT - PART 3",
+              duration: "47:00",
+              url: "https://web-production-50ad7.up.railway.app/414?hash=AgADeR",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-28",
+              title: "POLITY - PARLIAMENTARY COMMITTEES AND STATE LEGISLATURE",
+              duration: "50:00",
+              url: "https://web-production-50ad7.up.railway.app/416?hash=AgADfx",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-29",
+              title: "POLITY - SUPREME COURT",
+              duration: "46:00",
+              url: "https://web-production-50ad7.up.railway.app/418?hash=AgADfB",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-30",
+              title: "POLITY - HIGH COURT AND DISTRICT COURT",
+              duration: "45:00",
+              url: "https://web-production-50ad7.up.railway.app/426?hash=AgADrB",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-31",
+              title: "POLITY - CONSTITUTIONAL BODIES",
+              duration: "49:00",
+              url: "https://web-production-50ad7.up.railway.app/420?hash=AgADrx",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-32",
+              title: "POLITY - LOCAL BODIES",
+              duration: "44:00",
+              url: "https://web-production-50ad7.up.railway.app/424?hash=AgADsh",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-33",
+              title: "POLITY - EMERGENCY",
+              duration: "48:00",
+              url: "https://web-production-50ad7.up.railway.app/422?hash=AgADtR",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-34",
+              title: "POLITY - HISTORICAL BACKGROUND [ACTS]",
+              duration: "47:00",
+              url: "https://web-production-50ad7.up.railway.app/434?hash=AgADuB",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-35",
+              title: "GEOGRAPHY - SOLAR SYSTEM",
+              duration: "46:00",
+              url: "https://web-production-50ad7.up.railway.app/428?hash=AgADux",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-36",
+              title: "GEOGRAPHY - LATITUDE AND LONGITUDE",
+              duration: "43:00",
+              url: "https://web-production-50ad7.up.railway.app/432?hash=AgADvx",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-37",
+              title: "ANCIENT HISTORY - STONE AGE",
+              duration: "45:00",
+              url: "https://web-production-50ad7.up.railway.app/430?hash=AgADwx",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-38",
+              title: "ANCIENT HISTORY - INDUS VALLEY CIVILIZATION",
+              duration: "49:00",
+              url: "https://web-production-50ad7.up.railway.app/437?hash=AgADzB",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-39",
+              title: "ANCIENT HISTORY - VEDIC AGE",
+              duration: "47:00",
+              url: "https://web-production-50ad7.up.railway.app/436?hash=AgADxh",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-40",
+              title: "ANCIENT HISTORY - BUDDHISM AND JAINISM",
+              duration: "48:00",
+              url: "https://web-production-50ad7.up.railway.app/442?hash=AgADyR",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-41",
+              title: "ANCIENT HISTORY - MAHAJANPADS & MAGADHA",
+              duration: "46:00",
+              url: "https://web-production-50ad7.up.railway.app/440?hash=AgADzx",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-42",
+              title: "ANCIENT HISTORY - MAURYAN EMPIRE",
+              duration: "51:00",
+              url: "https://web-production-50ad7.up.railway.app/448?hash=AgAD0h",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-43",
+              title: "ANCIENT HISTORY - POST MAURYAN DYNASTIES",
+              duration: "47:00",
+              url: "https://web-production-50ad7.up.railway.app/444?hash=AgAD1R",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-44",
+              title: "ANCIENT HISTORY - SANGAM AGE",
+              duration: "44:00",
+              url: "https://web-production-50ad7.up.railway.app/446?hash=AgAD2B",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-45",
+              title: "ANCIENT HISTORY - GUPTA ERA",
+              duration: "49:00",
+              url: "https://web-production-50ad7.up.railway.app/450?hash=AgAD2x",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-46",
+              title: "ANCIENT HISTORY - POST GUPTA ERA - PART 1",
+              duration: "46:00",
+              url: "https://web-production-50ad7.up.railway.app/456?hash=AgAD3h",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-47",
+              title: "ANCIENT HISTORY - POST GUPTA ERA - PART 2",
+              duration: "45:00",
+              url: "https://web-production-50ad7.up.railway.app/454?hash=AgAD4R",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "cds-gk-48",
+              title: "ANCIENT HISTORY - CHOLAS AND TRIPARTITE STRUGGLE",
+              duration: "48:00",
+              url: "https://web-production-50ad7.up.railway.app/452?hash=AgAD5B",
               thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
             }
           ]
