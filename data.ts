@@ -499,7 +499,7 @@ export const data: AppData = {
           id: "modern-history",
           name: "MODERN HISTORY",
           description: "Modern Indian History",
-          icon: "https://appx-content-v2.classx.co.in/paid_course3/2025-09-29-0.06895000379516425.jpg",
+          icon: "",
           videos: [
             {
               id: "modern-01",
