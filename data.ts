@@ -12,7 +12,7 @@ export const data: AppData = {
           id: "subj-polity",
           name: "POLITY",
           description: "Indian Constitution and Polity",
-          icon: "🎓",
+          icon: "⚛️",
           videos: [
             {
               id: "v1",
@@ -146,7 +146,7 @@ export const data: AppData = {
           id: "subj-ancient-history",
           name: "ANCIENT HISTORY",
           description: "Ancient Indian History",
-          icon: "🎓",
+          icon: "https://image2url.com/r2/default/images/1770520667852-c2f5067c-1982-4007-a675-030030e77181.png",
           videos: [
             {
               id: "v1",
@@ -238,7 +238,7 @@ export const data: AppData = {
           id: "subj-geography",
           name: "GEOGRAPHY",
           description: "World and Indian Geography",
-          icon: "🎓",
+          icon: "https://image2url.com/r2/default/images/1770522075771-0daa0656-04b0-46d4-be38-9323ee8bd83a.png",
           videos: [
             {
               id: "v1",
@@ -442,7 +442,7 @@ export const data: AppData = {
           id: "subj-medieval-history",
           name: "MEDIEVAL HISTORY",
           description: "Medieval Indian History",
-          icon: "🎓",
+          icon: "https://appx-content-v2.classx.co.in/paid_course3/2025-09-29-0.06895000379516425.jpg",
           videos: [
             {
               id: "v1",
@@ -555,7 +555,7 @@ export const data: AppData = {
           id: "subj-modern-history",
           name: "MODERN HISTORY",
           description: "Modern Indian History",
-          icon: "🎓",
+          icon: "https://appx-content-v2.classx.co.in/paid_course3/2025-09-29-0.06895000379516425.jpg",
           videos: [
             {
               id: "v1",
@@ -598,14 +598,14 @@ export const data: AppData = {
           id: "subj-revision-classes",
           name: "REVISION CLASSES",
           description: "Revision sessions for exams",
-          icon: "🎓",
+          icon: "https://appx-content-v2.classx.co.in/paid_course3/2025-09-29-0.06895000379516425.jpg",
           videos: [
             {
               id: "v1",
               title: "ALL COMPUTER Q. (CONSTABLE DP)",
               duration: "5",
               url: "https://web-production-50ad7.up.railway.app/266?hash=AgADgT",
-              thumbnail: ""
+              thumbnail: "https://appx-content-v2.classx.co.in/paid_course3/2025-09-29-0.06895000379516425.jpg"
             }
           ]
         },
@@ -613,7 +613,7 @@ export const data: AppData = {
           id: "subj-economics",
           name: "ECONOMICS",
           description: "Indian Economy",
-          icon: "🎓",
+          icon: "https://appx-content-v2.classx.co.in/paid_course3/2025-09-29-0.06895000379516425.jpg",
           videos: [
             {
               id: "v1",
@@ -628,6 +628,413 @@ export const data: AppData = {
               duration: "",
               url: "",
               thumbnail: "https://appx-content-v2.classx.co.in/paid_course3/2025-09-29-0.06895000379516425.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      id: "PARMAR's CDS-CAPF BATCH 2.0 ",
+      name: "PARMAR's CDS-CAPF BATCH 2.0 ",
+      description: "unlocked",
+      thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100",
+      subjects: [
+        {
+          id: "SCIENCE",
+          name: "SCIENCE",
+          description: "Indian Constitution and Polity - Advanced",
+          icon: "⚛️",
+          videos: [
+            {
+              id: "1",
+              title: "PHYSICS  REFLECTION OF LIGHT",
+              duration: "",
+              url: "https://web-production-50ad7.up.railway.app/watch/292/AV_File_1770896300.mkv?hash=AgADAx",
+              thumbnail: "https://appx-content-v2.classx.co.in/paid_course3/2025-10-15-0.12345678901234567.jpg"
+            },
+            {
+              id: "2",
+              title: "PHYSICS  REFRACTION OF LIGHT",
+              duration: "",
+              url: "https://web-production-50ad7.up.railway.app/watch/294/AV_File_1770896301.mkv?hash=AgADDh",
+              thumbnail: "https://appx-content-v2.classx.co.in/paid_course3/2025-10-15-0.12345678901234567.jpg"
+            },
+             {
+              id: "3",
+              title: " PHYSICS  SCATTERING OF LIGHT",
+              duration: "",
+              url: "https://web-production-50ad7.up.railway.app/298?hash=AgADCh",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "4",
+              title: " PHYSICS  MOTION & ITS LAWS PART 1",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+{
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+{
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+{
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+             {
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+{
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+{
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+{
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+             {
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+{
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+{
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+{
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+
+ {
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+{
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+{
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+{
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+
+ {
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+{
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+{
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+{
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+
+ {
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+{
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+{
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+{
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+
+ {
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+{
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+            {
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+{
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            },
+{
+              id: "",
+              title: "",
+              duration: "",
+              url: "",
+              thumbnail: "https://picasso.cosmofeed.com/picture-profile.s3-ap-south-1.amazonaws.com/my_image1766329342-2025-21-12-03-02-22.png?w=600&&q=100"
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          ]
+        },
+        {
+          id: "subj-geography-5",
+          name: "GEOGRAPHY",
+          description: "Indian Geography - Advanced",
+          icon: "🌍",
+          videos: [
+            {
+              id: "v5-3",
+              title: "CLIMATOLOGY",
+              duration: "",
+              url: "https://web-production-50ad7.up.railway.app/303?hash=AgADph",
+              thumbnail: "https://appx-content-v2.classx.co.in/paid_course3/2025-10-15-0.12345678901234567.jpg"
+            }
+          ]
+        },
+        {
+          id: "subj-economics-5",
+          name: "ECONOMICS",
+          description: "Indian Economy - Advanced",
+          icon: "💰",
+          videos: [
+            {
+              id: "v5-4",
+              title: "BUDGET AND FISCAL POLICY",
+              duration: "",
+              url: "",
+              thumbnail: "https://appx-content-v2.classx.co.in/paid_course3/2025-10-15-0.12345678901234567.jpg"
             }
           ]
         }
