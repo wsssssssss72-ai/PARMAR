@@ -1,3 +1,4 @@
+
 import { AppData } from './types';
 
 export const data: AppData = {
@@ -139,7 +140,7 @@ export const data: AppData = {
           id: "ancient-history",
           name: "ANCIENT HISTORY",
           description: "Ancient Indian History",
-          icon: "",
+          icon: "https://image2url.com/r2/default/images/1770520667852-c2f5067c-1982-4007-a675-030030e77181.png",
           videos: [
             {
               id: "ancient-01",
@@ -224,7 +225,7 @@ export const data: AppData = {
           id: "geography",
           name: "GEOGRAPHY",
           description: "World and Indian Geography",
-          icon: "",
+          icon: "https://image2url.com/r2/default/images/1770522075771-0daa0656-04b0-46d4-be38-9323ee8bd83a.png",
           videos: [
             {
               id: "geo-01",
@@ -428,7 +429,7 @@ export const data: AppData = {
           id: "medieval-history",
           name: "MEDIEVAL HISTORY",
           description: "Medieval Indian History",
-          icon: "",
+          icon: "https://appx-content-v2.classx.co.in/paid_course3/2025-09-29-0.06895000379516425.jpg",
           videos: [
             {
               id: "medieval-01",
@@ -499,7 +500,7 @@ export const data: AppData = {
           id: "modern-history",
           name: "MODERN HISTORY",
           description: "Modern Indian History",
-          icon: "",
+          icon: "https://appx-content-v2.classx.co.in/paid_course3/2025-09-29-0.06895000379516425.jpg",
           videos: [
             {
               id: "modern-01",
@@ -549,7 +550,7 @@ export const data: AppData = {
           id: "revision-classes",
           name: "REVISION CLASSES",
           description: "Revision sessions for exams",
-          icon: "",
+          icon: "https://appx-content-v2.classx.co.in/paid_course3/2025-09-29-0.06895000379516425.jpg",
           videos: [
             {
               id: "revision-01",
