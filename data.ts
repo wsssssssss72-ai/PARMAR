@@ -550,7 +550,7 @@ export const data: AppData = {
           id: "revision-classes",
           name: "REVISION CLASSES",
           description: "Revision sessions for exams",
-          icon: "https://appx-content-v2.classx.co.in/paid_course3/2025-09-29-0.06895000379516425.jpg",
+          icon: "",
           videos: [
             {
               id: "revision-01",
